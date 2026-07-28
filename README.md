@@ -1,11 +1,123 @@
-# Hi 👋 I'm Nahuel
+# Hi there! 👋 I'm Nahuel Zanelli
 
-Full Stack Software Engineer
+### Full Stack Software Engineer
 
-## 🚀 Technologies
+I'm a Full Stack Software Engineer with 6+ years of experience building scalable web applications and REST APIs.
 
-PHP • Symfony • Laravel • Java • Docker • MySQL • JavaScript • Git
+My main expertise is PHP development using Symfony and Laravel, but I also enjoy working with Java, Docker, MySQL and modern development practices.
 
-## 📈 GitHub Stats
+- 💼 6+ years of professional experience
+- 🚀 Backend & Full Stack Development
+- 🐘 PHP | Symfony | Laravel
+- ☕ Java
+- 🐳 Docker
+- 🛢 MySQL
+- 🔗 REST APIs
+- 🇦🇷 Argentina
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahuelz&theme=github_dark)
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=php,symfony,laravel,java,docker,mysql,js,html,css,git,github,linux,vscode" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nahuelz&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nahuelz&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=nahuelz&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📈 CapitalTrack
+
+Portfolio and investment tracking platform.
+
+**Tech**
+
+- PHP
+- Symfony
+- MySQL
+- Docker
+- REST APIs
+
+---
+
+### 🚗 Parking API
+
+REST API developed with Laravel for parking management.
+
+**Tech**
+
+- Laravel
+- PHP
+- Docker
+- MySQL
+
+---
+
+### 🌱 ERP System
+
+Business management platform for nursery operations.
+
+**Tech**
+
+- Symfony
+- Doctrine
+- Bootstrap
+- jQuery
+
+---
+
+## 🛠 What I enjoy working on
+
+- Backend Architecture
+- REST APIs
+- Docker
+- Microservices
+- Database Design
+- Performance Optimization
+- Clean Code
+- Software Architecture
+
+---
+
+## 📫 Connect with me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/TU_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:TU_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=nahuelz&style=for-the-badge)
+
+</p>
