@@ -32,8 +32,7 @@ My main expertise is PHP development using Symfony and Laravel, but I also enjoy
 <p align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nahuelz&theme=github_dark)
-<img src="https://github-readme-stats.vercel.app/api?username=nahuelz&show_icons=false&hide=stars,prs,issues,contribs&theme=github_dark&hide_border=true" />
-
+![Commits](https://img.shields.io/badge/Commits-484-blue)
 
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nahuelz&layout=compact&theme=github_dark&hide_border=true"/>
 
