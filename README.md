@@ -31,7 +31,7 @@ My main expertise is PHP development using Symfony and Laravel, but I also enjoy
 
 <p align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahuelz&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nahuelz&theme=github_dark)
 
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nahuelz&show_icons=true&theme=github_dark&hide_border=true"/>
 
