@@ -31,7 +31,6 @@ My main expertise is PHP development using Symfony and Laravel, but I also enjoy
 
 <p align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nahuelz&theme=github_dark)
 ![Total Commits](https://img.shields.io/badge/🚀_Total_Commits-4,287-blue?style=for-the-badge)
 ![2026 Commits](https://img.shields.io/badge/📅_2026_Commits-484-success?style=for-the-badge)
 
