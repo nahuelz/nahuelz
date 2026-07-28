@@ -104,11 +104,11 @@ Business management platform for nursery operations.
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/TU_LINKEDIN">
+<a href="https://www.linkedin.com/in/nahuel-zanelli">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:TU_EMAIL">
+<a href="mailto:nahuel.zanelli@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
