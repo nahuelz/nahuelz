@@ -1,1 +1,1 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TU_USUARIO&theme=github_dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=dark)](https://git.io/streak-stats)
