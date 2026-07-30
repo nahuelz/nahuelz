@@ -4,12 +4,12 @@
 
 I'm a Full Stack Software Engineer with 6+ years of experience building scalable web applications and REST APIs.
 
-My main expertise is PHP development using Symfony and Laravel, but I also enjoy working with Java, Docker, MySQL and modern development practices.
+My main expertise is PHP development using Symfony and Laravel, working with JavaScript, Docker, MySQL and modern development tools.
 
 - 💼 6+ years of professional experience
 - 🚀 Backend & Full Stack Development
 - 🐘 PHP | Symfony | Laravel
-- ☕ Java
+- ☕ JavaScript
 - 🐳 Docker
 - 🛢 MySQL
 - 🔗 REST APIs
